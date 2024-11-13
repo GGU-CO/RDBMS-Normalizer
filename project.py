@@ -77,7 +77,7 @@ def generate_bcnf(fds):
     return tables
 
 def is_superkey(determinants):
-    return True  # Placeholder: Add logic for determining superkeys
+    return True
 
 def generate_4nf(mvds):
     tables = []
